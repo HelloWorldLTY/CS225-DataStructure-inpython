@@ -1,5 +1,5 @@
 # CS225-DataStructure-inpython
-CS225 class example for ZJU-UIUC institute
+\title{CS225 class example for ZJU-UIUC institute}
 
 
 Instructors, TAs and Some Students of UIUC CS 225 SP20 ZJUI Course
