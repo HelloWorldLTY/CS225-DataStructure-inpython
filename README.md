@@ -1,22 +1,21 @@
 # CS225-DataStructure-inpython
-\title{CS225 class example for ZJU-UIUC institute}
+CS225 class example for ZJU-UIUC institute
 
+Instructors, TAs and Some Students of UIUC CS 225 SP20 ZJUI Course  
 
-Instructors, TAs and Some Students of UIUC CS 225 SP20 ZJUI Course
+Instructors  
 
-Instructors
+Prof. Dr. Klaus-Dieter Schewe  
+TAs  
 
-Prof. Dr. Klaus-Dieter Schewe
-TAs
+Tingou Liang  
+Run Zhang  
+Enyi Jiang  
+Xiang Li  
 
-Tingou Liang
-Run Zhang
-Enyi Jiang
-Xiang Li
+Group 16 Students  
 
-Group 16 Students
-
-Liu Tianyu
-Wang Chenhao
-Chang Junyu
-Xu Tong
+Liu Tianyu  
+Wang Chenhao  
+Chang Junyu  
+Xu Tong  
