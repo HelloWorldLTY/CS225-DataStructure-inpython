@@ -6,6 +6,7 @@ Instructors, TAs and Some Students of UIUC CS 225 SP20 ZJUI Course
 Instructors  
 
 Prof. Dr. Klaus-Dieter Schewe  
+
 TAs  
 
 Tingou Liang  
